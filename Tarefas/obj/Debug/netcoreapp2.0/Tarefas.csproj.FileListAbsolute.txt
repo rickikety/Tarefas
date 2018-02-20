@@ -10,3 +10,15 @@
 /home/ricardo/Área de Trabalho/Testes aspnet/Tarefas/obj/Debug/netcoreapp2.0/Tarefas.AssemblyInfo.cs
 /home/ricardo/Área de Trabalho/Testes aspnet/Tarefas/obj/Debug/netcoreapp2.0/Tarefas.dll
 /home/ricardo/Área de Trabalho/Testes aspnet/Tarefas/obj/Debug/netcoreapp2.0/Tarefas.pdb
+/home/ricardo/Área de Trabalho/Tarefas/Tarefas/Tarefas/bin/Debug/netcoreapp2.0/app.db
+/home/ricardo/Área de Trabalho/Tarefas/Tarefas/Tarefas/bin/Debug/netcoreapp2.0/Tarefas.deps.json
+/home/ricardo/Área de Trabalho/Tarefas/Tarefas/Tarefas/bin/Debug/netcoreapp2.0/Tarefas.runtimeconfig.json
+/home/ricardo/Área de Trabalho/Tarefas/Tarefas/Tarefas/bin/Debug/netcoreapp2.0/Tarefas.runtimeconfig.dev.json
+/home/ricardo/Área de Trabalho/Tarefas/Tarefas/Tarefas/bin/Debug/netcoreapp2.0/Tarefas.dll
+/home/ricardo/Área de Trabalho/Tarefas/Tarefas/Tarefas/bin/Debug/netcoreapp2.0/Tarefas.pdb
+/home/ricardo/Área de Trabalho/Tarefas/Tarefas/Tarefas/obj/Debug/netcoreapp2.0/Tarefas.csproj.CoreCompileInputs.cache
+/home/ricardo/Área de Trabalho/Tarefas/Tarefas/Tarefas/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/home/ricardo/Área de Trabalho/Tarefas/Tarefas/Tarefas/obj/Debug/netcoreapp2.0/Tarefas.AssemblyInfoInputs.cache
+/home/ricardo/Área de Trabalho/Tarefas/Tarefas/Tarefas/obj/Debug/netcoreapp2.0/Tarefas.AssemblyInfo.cs
+/home/ricardo/Área de Trabalho/Tarefas/Tarefas/Tarefas/obj/Debug/netcoreapp2.0/Tarefas.dll
+/home/ricardo/Área de Trabalho/Tarefas/Tarefas/Tarefas/obj/Debug/netcoreapp2.0/Tarefas.pdb

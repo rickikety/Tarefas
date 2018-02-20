@@ -13129,11 +13129,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ricardo/Área de Trabalho/Testes aspnet/Tarefas/Tarefas.csproj",
+      "projectUniqueName": "/home/ricardo/Área de Trabalho/Tarefas/Tarefas/Tarefas/Tarefas.csproj",
       "projectName": "Tarefas",
-      "projectPath": "/home/ricardo/Área de Trabalho/Testes aspnet/Tarefas/Tarefas.csproj",
+      "projectPath": "/home/ricardo/Área de Trabalho/Tarefas/Tarefas/Tarefas/Tarefas.csproj",
       "packagesPath": "/home/ricardo/.nuget/packages/",
-      "outputPath": "/home/ricardo/Área de Trabalho/Testes aspnet/Tarefas/obj/",
+      "outputPath": "/home/ricardo/Área de Trabalho/Tarefas/Tarefas/Tarefas/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
